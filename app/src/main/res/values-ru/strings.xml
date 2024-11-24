@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Green Screen remover</string>
+    <string name="act_change_file">Изменить</string>
+    <string name="act_select_file">Выбрать</string>
+    <string name="act_upload_base_video">Основное видео</string>
+    <string name="act_upload_screen_video">Эффект на зелёном фоне</string>
+    <string name="app_process_info">Нажмите кнопку ниже для запуска обработки</string>
+    <string name="act_process">Обработать</string>
+</resources>

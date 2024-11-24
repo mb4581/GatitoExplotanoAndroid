@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Green Screen remover</string>
+    <string name="act_change_file">Change file</string>
+    <string name="act_select_file">Select file</string>
+    <string name="act_upload_base_video">Upload base video</string>
+    <string name="act_upload_screen_video">Upload screen effect</string>
+    <string name="app_title">Green screen video tool</string>
+    <string name="app_process_info">Use button below to start processing</string>
+    <string name="act_process">Process</string>
+</resources>
